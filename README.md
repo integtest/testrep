@@ -1,4 +1,4 @@
 testrep
 =======
 
-testing done
+testing is done
